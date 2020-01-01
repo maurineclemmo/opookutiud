@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eethaonai.coloniallifedental.com/sitemap.xml
